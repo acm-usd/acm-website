@@ -1,6 +1,7 @@
-<script>
-    import Nav from "../components/nav.svelte";
-    import EventCalendar from "../components/events.svelte";
+<script lang="ts">
+	import Nav from '../components/nav.svelte';
+	import EventCalendar from '../components/events.svelte';
 </script>
-<svelte:head><Nav/></svelte:head>
+
+<Nav />
 <EventCalendar />
