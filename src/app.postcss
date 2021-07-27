@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	@apply font-serif antialiased;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: white;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
