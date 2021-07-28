@@ -1,5 +1,7 @@
 # Icon
 
+[Home](../README.md)
+
 Component wrapper for @mdi/js.
 
 ## Usage
