@@ -12,13 +12,3 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
-jobs:
-  docs:
-    runs-on: ubuntu-latest
-    steps:
-      - name: push subtree
-        run: |
-          git clone https://github.com/acm-usd/acm-website.git
-          cd acm-website
-          git subtree push --prefix docs origin docs
