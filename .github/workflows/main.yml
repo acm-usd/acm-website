@@ -19,5 +19,6 @@ jobs:
     steps:
       - name: push subtree
         run: |
-          git fetch origin main
+          git clone git://github.com/acm-usd/acm-website.git
+          cd acm-website
           git subtree push --prefix docs origin docs
