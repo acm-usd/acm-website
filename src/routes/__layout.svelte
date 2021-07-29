@@ -1,5 +1,6 @@
 <script lang="ts">
 	import '../app.postcss';
+	import Navbar from '$lib/navbar.svelte';
 </script>
 
 <svelte:head>
@@ -11,6 +12,7 @@
 	/>
 </svelte:head>
 
+<Navbar />
 <main>
 	<slot />
 </main>
