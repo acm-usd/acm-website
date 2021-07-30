@@ -1,5 +1,7 @@
 # Navbar
 
+[Home](../)
+
 Global UI component for navigation. Simplistic navigation with slight animation.
 
 ![](https://user-images.githubusercontent.com/50666443/127571778-6e80b8db-0218-463d-af13-e7c7e8715e9b.gif)
