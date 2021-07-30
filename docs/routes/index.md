@@ -4,6 +4,6 @@ Homepage
 
 ## Routes
 
-| **Route**                  | **Description** |
-| -------------------------- | --------------- |
-| [Index](./routes/index.md) | Landing Page    |
+| **Route**  | **Description** |
+| ---------- | --------------- |
+| [Index](.) | Landing Page    |
