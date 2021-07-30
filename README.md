@@ -2,7 +2,7 @@
 
 ## Component Documentation
 
-Check out the (docs)[./docs]
+Check out the [docs](./docs)
 
 ## Creating a project
 
