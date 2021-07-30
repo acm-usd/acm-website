@@ -1,5 +1,7 @@
 # ACM Website Documentation
 
+When writing documentation for Svelte components, please follow [this template](./template.md)
+
 ## Lib
 
 | **Component**             | **Description**            |
