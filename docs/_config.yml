@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+logo: /assets/logo.png
+title: ACM Website Docs
+description: Component documentation for ACM website
