@@ -19,11 +19,6 @@
 			element: null
 		},
 		{
-			name: 'Test',
-			to: '/test',
-			element: null
-		},
-		{
 			name: 'Events',
 			to: '/events',
 			element: null
