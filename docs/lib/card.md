@@ -31,3 +31,9 @@ UI component for organizing information
 | header   | Styleless header |
 | title    | Padded Title     |
 | footer   | Padded footer    |
+
+## Events
+
+| **Event** | **Description**            |
+| --------- | -------------------------- |
+| Click     | Emits when card is clicked |
