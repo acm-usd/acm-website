@@ -1,6 +1,6 @@
 # Icon
 
-[Home](../README.md)
+[Home](../)
 
 Component wrapper for @mdi/js.
 

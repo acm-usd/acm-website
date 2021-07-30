@@ -6,7 +6,16 @@ const config = {
 	darkMode: false,
 	purge: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
-		extend: {},
+		extend: {
+			colors: {
+				primary: colors.red,
+				secondary: colors.orange,
+				success: colors.emerald,
+				warning: colors.amber,
+				error: colors.rose,
+				info: colors.teal
+			}
+		},
 		fontFamily: {
 			display: ['Montserrat', 'sans-serif'],
 			serif: [
@@ -17,14 +26,6 @@ const config = {
 				'-apple-system',
 				'BlinkMacSystemFont'
 			]
-		},
-		colors: {
-			primary: colors.red,
-			secondary: colors.orange,
-			success: colors.emerald,
-			warning: colors.amber,
-			error: colors.rose,
-			info: colors.teal
 		}
 	},
 	plugins: []

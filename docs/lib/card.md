@@ -1,6 +1,6 @@
 # Card
 
-[Home](../README.md)
+[Home](../)
 
 UI component for organizing information
 
